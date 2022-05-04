@@ -52,7 +52,7 @@ A Xray backend framework that can easily support many panels.
 ## 软件安装
 ### 一键安装
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/HoshinoFork/XrayR-release/master/install.sh)
 ```
 ### 使用Docker部署软件
 [Docker部署教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/docker)
@@ -73,7 +73,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/ma
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/HoshinoFork/XrayR/blob/master/LICENSE)
 
 ## Telgram
 
@@ -82,5 +82,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/ma
 [XrayR通知](https://t.me/XrayR_channel)
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
+[![Stargazers over time](https://starchart.cc/HoshinoFork/XrayR.svg)](https://starchart.cc/HoshinoFork/XrayR)
 

@@ -3,8 +3,8 @@ package v2board_test
 import (
 	"testing"
 
-	"github.com/XrayR-project/XrayR/api"
-	"github.com/XrayR-project/XrayR/api/v2board"
+	"github.com/HoshinoFork/XrayR/api"
+	"github.com/HoshinoFork/XrayR/api/v2board"
 )
 
 func CreateClient() api.API {
