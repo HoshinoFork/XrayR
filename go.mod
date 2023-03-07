@@ -20,7 +20,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
 	github.com/urfave/cli v1.22.7
 	github.com/xtls/xray-core v1.5.4
-	golang.org/x/net v0.0.0-20220412020605-290c469a71a5
+	golang.org/x/net v0.8.0
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.0
 )
@@ -146,13 +146,12 @@ require (
 	go.starlark.net v0.0.0-20220302181546-5411bad688d1 // indirect
 	go.uber.org/ratelimit v0.2.0 // indirect
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
-	golang.org/x/mod v0.5.1 // indirect
+	golang.org/x/mod v0.8.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/text v0.8.0 // indirect
 	golang.org/x/time v0.0.0-20220224211638-0e9765cccd65 // indirect
-	golang.org/x/tools v0.1.9 // indirect
-	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	google.golang.org/api v0.74.0 // indirect
 	google.golang.org/genproto v0.0.0-20220407144326-9054f6ed7bac // indirect
 	google.golang.org/grpc v1.45.0 // indirect
